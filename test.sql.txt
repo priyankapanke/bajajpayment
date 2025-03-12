@@ -1,8 +1,5 @@
 Added new file
 Updated
-<<<<<<< HEAD
+This is sql file....
 This is sql file
-=======
-
 deleted
->>>>>>> 999e33e392fcdd5ed6302484c3b3a496feb1f77d
