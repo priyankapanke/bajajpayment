@@ -1,1 +1,19 @@
-hello this is github
+1) git clone---> cloning repo to local system.
+2) git status--> list modified, created,deleted file
+3) git add . --> Files are added to staging are that are ready to commit
+4) git commit --> Whatever changes are done in loacl repo are commites
+5) git push --> Local repo commits are pushed over git remote repo
+6) git branch --> List all branches & shows on which branch we are.
+7) git branch branch_name --> we are creating new brach by given name
+8) git checkout (branch name where we want to go)-->Here we are switching to given branch e.g git checkout bajaj
+9) git push origin bajaj--> We are pushing our changes to our new created branch
+10)git merge old branch name-->
+merge 
+1) First we have to go on main branch
+2) We have to merge new branch to main branch 
+   e.g git merge bajaj
+3) Again we have to push our changes to remote local repo.
+
+
+ 
+11)Reset

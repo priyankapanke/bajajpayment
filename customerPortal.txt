@@ -1,1 +1,2 @@
-This is customer portal site
+This is customer portal site.
+This is customer portal dashboard
